@@ -1,0 +1,27 @@
+2026-05-10 21:48:24 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2026-05-10 21:48:24 INFO  Log:22 - user is going to click on sign in
+2026-05-10 21:48:25 INFO  Log:22 - enter username and password
+2026-05-10 21:48:28 INFO  Log:22 - verifying if user is able to login
+2026-05-10 21:48:28 INFO  Log:22 - Login is success
+2026-05-10 21:48:28 INFO  Log:15 - =====================================loginTest TEST END=========================================
+2026-05-10 22:51:43 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2026-05-10 22:51:43 INFO  Log:22 - user is going to click on sign in
+2026-05-10 22:51:45 INFO  Log:22 - enter username and password
+2026-05-10 22:51:47 INFO  Log:22 - verifying if user is able to login
+2026-05-10 22:51:47 INFO  Log:22 - Login is success
+2026-05-10 22:51:47 INFO  Log:15 - =====================================loginTest TEST END=========================================
+2026-05-11 00:19:25 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2026-05-11 00:19:25 INFO  Log:22 - user is going to click on sign in
+2026-05-11 00:19:26 INFO  Log:22 - enter username and password
+2026-05-11 00:19:29 INFO  Log:22 - verifying if user is able to login
+2026-05-11 00:19:29 INFO  Log:22 - Login is success
+2026-05-11 00:19:29 INFO  Log:15 - =====================================loginTest TEST END=========================================
+2026-05-11 00:35:17 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2026-05-11 00:35:17 INFO  Log:22 - user is going to click on sign in
+2026-05-11 00:35:18 INFO  Log:22 - enter username and password
+2026-05-11 00:35:21 INFO  Log:22 - verifying if user is able to login
+2026-05-11 00:35:21 INFO  Log:22 - Login is success
+2026-05-11 00:35:21 INFO  Log:15 - =====================================loginTest TEST END=========================================
+2026-05-11 00:53:29 INFO  Log:11 - =====================================loginTest TEST START=========================================
+2026-05-11 00:53:29 INFO  Log:22 - user is going to click on sign in
+2026-05-11 00:53:31 INFO  Log:22 - enter username and password
